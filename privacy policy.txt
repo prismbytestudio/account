@@ -1,0 +1,284 @@
+Last Updated: [03/10/2026]
+
+
+Introduction
+
+
+Welcome to the Word Counter app (“we,” “our,” or “us”).
+
+
+Your privacy is very important to us, and this Privacy Policy explains how we collect, use, store, and protect information when you use our mobile application. We want you to feel confident that your information is safe and secure, and we are committed to complying with applicable data protection and privacy laws.
+
+
+This Privacy Policy applies only to the Word Counter app and explains our practices in detail. Because we understand that your text and written content may feel personal, we want to assure you that this app is designed to work without collecting, transmitting, or storing personal information on external servers. Any text you enter—such as words, sentences, or notes—is processed entirely on your device and is never sent to us.
+
+
+By using our app, you agree to the practices described in this Privacy Policy. If you do not agree, please do not use the app.
+
+
+
+---
+
+
+1. About the Word Counter App
+
+
+The Word Counter app is a simple productivity tool that helps users count words, characters, sentences, and text length. It is intended for writing, editing, educational use, and general text analysis.
+
+
+The app is designed for convenience and efficiency. It does not replace professional writing tools, grammar checking software, or advanced editing systems.
+
+
+
+---
+
+
+2. Information We Collect
+
+
+Our Word Counter app is designed with privacy in mind. The app does not require registration, accounts, or personal identification. However, we provide transparency regarding information that may be used or generated during app usage.
+
+
+2.1 Information Entered by the User
+
+
+You may manually enter or paste text into the app. This may include:
+
+
+Words
+
+
+Sentences
+
+
+Paragraphs
+
+
+Notes or personal writing
+
+
+Any text you choose to analyze
+
+
+
+This information is used solely to perform local text analysis. None of this data leaves your device.
+
+
+2.2 Non-Personal Information
+
+
+We may collect limited, non-identifiable information through the Google Play Store for analytics and crash reporting. This may include:
+
+
+Device model and operating system
+
+
+General app performance data
+
+
+Error logs (in case of crashes)
+
+
+
+This type of information does not identify you personally and is used to improve app stability.
+
+
+2.3 No Sensitive Data Collection
+
+
+We do not collect or request sensitive information such as:
+
+
+Contact information
+
+
+Financial data
+
+
+Location
+
+
+Personal identification
+
+
+Any sensitive text content
+
+
+
+
+---
+
+
+3. How We Use the Information
+
+
+Because the app does not transmit personal data to servers, the primary use of your input is local text analysis. Here’s how your information is used:
+
+
+Counting words and characters
+
+
+Displaying results within the app
+
+
+Providing text statistics for educational or productivity use
+
+
+
+In summary: the app uses your data only for local calculations. No data is stored online, shared with third parties, or sold.
+
+
+
+---
+
+
+4. Data Storage & Retention
+
+
+Inputs you provide are stored only temporarily in the device’s memory while the app is open.
+
+
+Once you close the app or clear the text fields, your data is erased.
+
+
+We do not permanently store any text in databases or servers.
+
+
+We do not back up or synchronize your data across devices.
+
+
+
+Your content remains fully under your control at all times.
+
+
+
+---
+
+
+5. Third-Party Services
+
+
+The Word Counter app is intentionally minimal and does not include intrusive third-party integrations. However, the following may be used:
+
+
+Google Play Services (for distribution and updates)
+
+
+Crash reporting tools (to improve app reliability)
+
+
+
+These services may collect anonymous diagnostic data such as error logs or device information. We do not control how these services handle information.
+
+
+
+---
+
+
+6. Advertising & Monetization
+
+
+In its default version, this app does not display third-party ads or collect advertising identifiers. If future versions introduce optional ads, this Privacy Policy will be updated and you will be notified.
+
+
+We do not sell or rent your information to advertisers.
+
+
+
+---
+
+
+7. Children’s Privacy
+
+
+The Word Counter app is suitable for all ages. However:
+
+
+We encourage parents to supervise children when entering text.
+
+
+The app does not knowingly collect information from children under the age of 13.
+
+
+If you are a parent and wish to remove any text entered by your child, simply uninstall the app—no data remains on external servers.
+
+
+
+
+---
+
+
+8. Security Measures
+
+
+We take privacy and security seriously:
+
+
+Local-only processing: Your text never leaves your device.
+
+
+No network permissions: The app does not require camera, microphone, or location access.
+
+
+Protected distribution: Google Play ensures malware checks and secure updates.
+
+
+
+
+---
+
+
+9. User Rights
+
+
+Since the app does not collect personal data, there is no personal information for us to provide, edit, or delete. However, you have the following general rights:
+
+
+The right to know what type of information could be processed
+
+
+The right to transparency regarding third-party services
+
+
+The right to uninstall the app at any time, which fully removes all locally stored inputs
+
+
+
+
+---
+
+
+10. Changes to This Privacy Policy
+
+
+We may update this Privacy Policy to reflect improvements or legal requirements. When updated:
+
+
+A new “Last Updated” date will appear at the top
+
+
+Significant updates will be communicated through the Play Store app listing
+
+
+
+
+---
+
+
+11. Disclaimer
+
+
+The Word Counter app is for informational and productivity purposes only. It should not be relied upon for professional document analysis, legal writing assessment, or grammar evaluation.
+
+
+We are not responsible for decisions you make based on app results. By using the app, you agree that we are not liable for any outcomes.
+
+
+
+---
+
+
+12. Contact Information
+
+
+If you have any questions about this Privacy Policy or the app, please contact us.
